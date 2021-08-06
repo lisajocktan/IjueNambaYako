@@ -10,21 +10,8 @@ body {
     border: 1px solid #555;
     border-radius: 4px;
   }
-  .button {
-    background-color: #f87389; /* Green */
-    border: none;
-    color: white;
-    padding: 20px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-    border-radius: 12px;
-  }
-  .num {
-   
+ 
+  .num { 
     background-color: white;
     padding: 40px 30px 30px 30px;
     border-radius: 10px;
